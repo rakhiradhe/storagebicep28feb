@@ -1,5 +1,5 @@
 resource storage 'Microsoft.Storage/storageAccounts@2022-09-01' = {
-  name: 'radhestor1marfifth'
+  name: 'radhestor1marsix'
   sku: {
 name: 'Standard_LRS'
   }
